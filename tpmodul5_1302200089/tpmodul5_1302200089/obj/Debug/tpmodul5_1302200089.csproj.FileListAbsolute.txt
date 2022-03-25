@@ -1,0 +1,8 @@
+C:\Users\Panji\Documents\VS Community things\TP_MOD5\TP_MOD5_KPL\tpmodul5_1302200089\tpmodul5_1302200089\obj\Debug\tpmodul5_1302200089.csproj.AssemblyReference.cache
+C:\Users\Panji\Documents\VS Community things\TP_MOD5\TP_MOD5_KPL\tpmodul5_1302200089\tpmodul5_1302200089\obj\Debug\tpmodul5_1302200089.csproj.SuggestedBindingRedirects.cache
+C:\Users\Panji\Documents\VS Community things\TP_MOD5\TP_MOD5_KPL\tpmodul5_1302200089\tpmodul5_1302200089\obj\Debug\tpmodul5_1302200089.csproj.CoreCompileInputs.cache
+C:\Users\Panji\Documents\VS Community things\TP_MOD5\TP_MOD5_KPL\tpmodul5_1302200089\tpmodul5_1302200089\bin\Debug\tpmodul5_1302200089.exe.config
+C:\Users\Panji\Documents\VS Community things\TP_MOD5\TP_MOD5_KPL\tpmodul5_1302200089\tpmodul5_1302200089\bin\Debug\tpmodul5_1302200089.exe
+C:\Users\Panji\Documents\VS Community things\TP_MOD5\TP_MOD5_KPL\tpmodul5_1302200089\tpmodul5_1302200089\bin\Debug\tpmodul5_1302200089.pdb
+C:\Users\Panji\Documents\VS Community things\TP_MOD5\TP_MOD5_KPL\tpmodul5_1302200089\tpmodul5_1302200089\obj\Debug\tpmodul5_1302200089.exe
+C:\Users\Panji\Documents\VS Community things\TP_MOD5\TP_MOD5_KPL\tpmodul5_1302200089\tpmodul5_1302200089\obj\Debug\tpmodul5_1302200089.pdb
